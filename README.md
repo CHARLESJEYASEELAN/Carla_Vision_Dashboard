@@ -57,9 +57,3 @@ This project is licensed under the MIT License.
 - [Pygame](https://www.pygame.org/)
 - [NumPy](https://numpy.org/)
 
----
-
-**Project Name:** CarlaVision Dashboard
-```
-
-You can copy and paste this into a file named README.md in your repository. Let me know if you want any further customization!
